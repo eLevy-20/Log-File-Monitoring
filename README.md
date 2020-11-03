@@ -11,6 +11,6 @@ Irresponsible behavior consists of the user forgetting to log out when they fini
 System glitch is very similar to irresonsible behavior except the process is flipped as it is when there are more logouts than logins. In this case, the sytem is glitched and we track it similarly to how we did before. 
 
 ### **Domain Counts**
-Domain counts tracks how many different names are associated with different email domains. Split each user at the "@" symbol and then count names per domain in a dictionary.
+Domain counts tracks how many different names are associated with different email domains. Split each user at the "@" symbol and then count names per domain in a dictionary. Then we made the key value for each domain the count for any different names. 
 
 #### Elon Levy, Mason Schwartz
