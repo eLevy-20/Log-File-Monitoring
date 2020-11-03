@@ -1,13 +1,13 @@
 # Log-File-Monitoring
 ## Code to analyze and generate reports on the log file. This consists of tracking suspicious activities, irresponsible behavior, system glitches, and domain counts.
 
-#### Suspicious Activities
+### **Suspicious Activities**
 
-#### Irresponsible Behavior
+### **Irresponsible Behavior**
 
-#### System Glitches
+### **System Glitches**
 
-#### Domain Counts
+### **Domain Counts**
 
 
-### Elon Levy, Mason Schwartz
+#### Elon Levy, Mason Schwartz
